@@ -1,0 +1,22 @@
+h1 {
+    color:brown
+}
+.ray{
+    display:flex;
+    justify-content:space-around;
+    border:solid;
+    background-color: cyan;
+}
+.ball{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly
+
+
+}
+.go{
+    display:flex;
+    justify-content:flex-end;
+    background-color: rgb(167, 49, 49);
+
+}
